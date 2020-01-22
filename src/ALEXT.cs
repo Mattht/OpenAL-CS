@@ -60,6 +60,8 @@ namespace OpenAL
 
 		public const int AL_GAIN_LIMIT_SOFT =			0x200E;
 
+		public const int AL_DIRECT_CHANNELS_SOFT =		0x1033;
+
 		public const int ALC_SOFT_HRTF = 			0x0001;
 		public const int ALC_HRTF_SOFT =			0x1992;
 		public const int ALC_DONT_CARE_SOFT =			0x0002;
